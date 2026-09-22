@@ -34,7 +34,7 @@ I'm open to **internships, freelance projects, collaborations, and networking op
 
 ## AI Agents
 
-- **NOVA** — Personal Computer Agent **
+- **NOVA** — Personal Computer Agent 
 - **AI Agent Form Assistant**
 - **Weather Agent**
 - **Research / Web-Search Agent**
